@@ -1,0 +1,8 @@
+
+1. What is the claim?  (State it in plain English.)
+
+
+2. In the space below, include one or more SQL queries that establish the factual accuracy of the claim.  Each query should have a comment explaining what the query shows.
+
+
+3. Explain how the claim misleads.  That is, provide a counter argument that refutes the claim or provides context for the claim that illustrates how the original statement is misleading.
